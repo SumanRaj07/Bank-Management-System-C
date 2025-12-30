@@ -1,5 +1,3 @@
-# Bank-Management-System-C
-Simple Bank Management System in C
 
 # Bank Management System (C)
 
