@@ -31,7 +31,7 @@ file so that records are not lost when the program is closed.
 
 
 
-## 👨‍🎓 Author
+##  Author
 **Suman Raj**  
 
 
